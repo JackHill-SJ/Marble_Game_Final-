@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MouseDrag : MonoBehaviour
 {
-    float distance = 51.5f;
+    float distance = 47.9f;
 
     private void OnMouseDrag()
     {
