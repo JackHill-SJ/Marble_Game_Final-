@@ -13622,6 +13622,7 @@ GameObject:
   - component: {fileID: 7517677296298786624}
   - component: {fileID: 7517677296298786625}
   - component: {fileID: 7517677296298786686}
+  - component: {fileID: 1340231190866090138}
   m_Layer: 0
   m_Name: Trampoline
   m_TagString: Untagged
@@ -15051,6 +15052,19 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!114 &1340231190866090138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7517677296298786687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8fff2dc6d5681148b4e6993278669a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playSound: {fileID: 0}
 --- !u!1 &7517677296425529482
 GameObject:
   m_ObjectHideFlags: 0
