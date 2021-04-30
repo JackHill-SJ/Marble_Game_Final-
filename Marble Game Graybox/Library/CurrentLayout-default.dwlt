@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 780.8
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 26
+  controlID: 153
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 27
+  controlID: 82
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 28
+  controlID: 83
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 0
     width: 317.59998
     height: 730.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -397,9 +397,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: bcb8ffff
-      m_LastClickedID: -18244
-      m_ExpandedIDs: bac7ffff90dfffff84e7ffff3efbffffa043000000460000
+      m_SelectedIDs: 8a400000
+      m_LastClickedID: 0
+      m_ExpandedIDs: e295fdff3299fdff409cfdff289ffdffe2a1fdffe6a7fdffe8abfdffa8affdff12b3fdff5eb6fdff28b9fdff3ebcfdffecc3fdffbec6fdff12cbfdffbc02feff8605feff5006feff8006feff9e06feff5009feffd211feffe411feff2a23feff6427feff4e2bfeff3c4dfeff8650feff087afeff0c7dfeffea7ffeff9a82feff8885feff5e8dfeff708dfeff2096feffd098feffdec0feffaac5feffb2c6fefff4cbfeff4cd1feff44d4feff0ed7feff52dbfeff52dffeff1ae9feff1ce9feff3cfcfefffafefeff3002ffffe223ffff8826ffff602fffff1632ffff8c37ffff3e3affff0c4dffffba4fffff7452ffff8a55ffff5258ffff9a58ffff6c5bffff5c64ffff6e64ffffea67ffff806fffff0a7fffff1684ffff7888ffff9a8bffff8c90ffff6293ffffcc96ffff0e9bffffb0ceffffa8d3ffffd6d5ffff62d9ffff4cdbffffe8deffff9ee3ffff26e4ffff92ebffffa0efffffa0f3ffffd6f7ffffc85a00001c6000005a650000986a0000e49d000006ad0000f2ad0000c8b2000012bb0000e6bc000010d9000090d900004cda0000aada0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -459,9 +459,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.3512802, y: -22.35991, z: 187.97891}
+    m_Target: {x: 1.2024959, y: 4.0416327, z: 37.784187}
     speed: 2
-    m_Value: {x: 0.3512802, y: -22.35991, z: 187.97891}
+    m_Value: {x: 1.2024959, y: 4.0416327, z: 37.784187}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,13 +508,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.07810854, y: 0.047485773, z: -0.00448725, w: 0.99601185}
+    m_Target: {x: -0.057283543, y: -0.015656192, z: 0.00036682346, w: -0.99852407}
     speed: 2
-    m_Value: {x: 0.07660507, y: 0.045988657, z: -0.004300139, w: 0.99599105}
+    m_Value: {x: -0.057266407, y: -0.017149013, z: 0.00045261777, w: -0.9982115}
   m_Size:
-    m_Target: 90.13879
+    m_Target: 42.57466
     speed: 2
-    m_Value: 6.828228
+    m_Value: 40.741302
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -577,21 +577,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: D:\github\Marble_Game_Final-\Marble Game Graybox
+  m_LastProjectPath: D:\Unity\Marble_Game_Final-\Marble Game Graybox
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 4}
-    m_SelectedIDs: e83d0000
-    m_LastClickedID: 15848
-    m_ExpandedIDs: 000000008e3d0000903d0000923d0000943d0000963d0000983d00009a3d00009c3d00009e3d0000a03d0000a23d0000a43d0000a63d0000a83d0000aa3d0000e83d000000ca9a3b
+    scrollPos: {x: 0, y: 39.80002}
+    m_SelectedIDs: 42400000
+    m_LastClickedID: 16450
+    m_ExpandedIDs: 00000000ca3f0000cc3f0000ce3f0000d03f0000d23f0000d43f0000d63f0000d83f0000da3f0000dc3f0000de3f0000e03f0000e23f0000e43f0000e63f00003240000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -619,7 +619,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008e3d0000903d0000923d0000943d0000963d0000983d00009a3d00009c3d00009e3d0000a03d0000a23d0000a43d0000a63d0000a83d0000aa3d0000
+    m_ExpandedIDs: 00000000ca3f0000cc3f0000ce3f0000d03f0000d23f0000d43f0000d63f0000d83f0000da3f0000dc3f0000de3f0000e03f0000e23f0000e43f0000e63f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -650,15 +650,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300001e410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Magnet
-      m_OriginalName: Magnet
+      m_Name: Scenes
+      m_OriginalName: Scenes
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 15958
+      m_UserData: 16450
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -712,7 +712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c262c1329a02fa49b5cb4c297106f3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 136, y: 28}
+  m_MinSize: {x: 139, y: 28}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: ProBuilder
@@ -722,8 +722,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 527.2
-    width: 1217
-    height: 256
+    width: 1217.4
+    height: 256.19998
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &18
 MonoBehaviour:
