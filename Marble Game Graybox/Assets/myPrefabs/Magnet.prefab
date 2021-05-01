@@ -112,7 +112,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnBall: {fileID: 4406549750651678070, guid: 328688463de8bd04cb79aada8e75d3d2, type: 3}
   attractedTo: {fileID: 6386279014861526798}
-  attractStrength: 5
+  attractStrength: 2.5
   rb: {fileID: 0}
 --- !u!114 &8709460482830094562
 MonoBehaviour:
