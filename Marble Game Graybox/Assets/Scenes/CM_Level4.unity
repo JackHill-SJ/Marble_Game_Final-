@@ -1151,6 +1151,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1601517268}
+    - target: {fileID: 6580549924692747605, guid: 30e9d5867e9fb0744838c8965a520d9a, type: 3}
+      propertyPath: spawnBall
+      value: 
+      objectReference: {fileID: 1824791124}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30e9d5867e9fb0744838c8965a520d9a, type: 3}
 --- !u!43 &351721855
@@ -8837,6 +8841,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 328688463de8bd04cb79aada8e75d3d2, type: 3}
+--- !u!114 &1824791124 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4406549750651678070, guid: 328688463de8bd04cb79aada8e75d3d2, type: 3}
+  m_PrefabInstance: {fileID: 1824791123}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 609f22d1877a5a246925e0a9d3808480, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!43 &1852591512
 Mesh:
   m_ObjectHideFlags: 0
